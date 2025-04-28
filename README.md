@@ -5,6 +5,7 @@
 - 💞️ I'm working as a software engineer
 - 🌱 I'm curently learning C, C++, Embedded, Automotive 
 ## 🤝 Contact with me 
+- Gmail: hoangtd.07082000@gmail.com
 - Facebook: [Tran Hoang](https://www.facebook.com/tranhoang7800?mibextid=LQQJ4d)
 - Zalo: [Tran Hoang](https://zalo.me/0395675972)
 - Github: [hoangtd2000](https://github.com/hoangtd2000)
